@@ -185,7 +185,7 @@
 									{$i18n.t('Help')}
 								</div>
 								<div class=" text-xs text-gray-500">
-									{$i18n.t('Discover how to use Vitabyte and seek support from the community.')}
+									{$i18n.t('Discover how to use VBPi and seek support from the community.')}
 								</div>
 							</div>
 

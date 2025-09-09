@@ -195,7 +195,7 @@
 </script>
 
 <svelte:head>
-	<title>#{channel?.name ?? 'Channel'} • Vitabyte</title>
+	<title>#{channel?.name ?? 'Channel'} • VBPi</title>
 </svelte:head>
 
 <div

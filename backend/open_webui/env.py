@@ -110,9 +110,9 @@ for source in log_sources:
 
 log.setLevel(SRC_LOG_LEVELS["CONFIG"])
 
-WEBUI_NAME = os.environ.get("WEBUI_NAME", "Vitabyte")
-if WEBUI_NAME != "Vitabyte":
-    WEBUI_NAME += " (Vitabyte)"
+WEBUI_NAME = os.environ.get("WEBUI_NAME", "VBPi")
+if WEBUI_NAME != "VBPi":
+    WEBUI_NAME += " (VBPi)"
 
 WEBUI_FAVICON_URL = "https://openwebui.com/favicon.png"
 

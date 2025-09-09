@@ -82,7 +82,7 @@
 				"metatags": [
 					{
 						"og:image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
-						"theme-color": "#000000",
+						"theme-color": "#181818",
 						"og:image:width": "256",
 						"og:type": "website",
 						"twitter:card": "summary",
@@ -91,7 +91,7 @@
 						"og:title": "r/lectures",
 						"og:image:height": "256",
 						"bingbot": "noarchive",
-						"msapplication-navbutton-color": "#000000",
+						"msapplication-navbutton-color": "#181818",
 						"og:description": "This subreddit is all about video lectures, talks and interesting public speeches.\n\nThe topics include mathematics, physics, computer science, programming, engineering, biology, medicine, economics, politics, social sciences, and any other subjects!",
 						"twitter:image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
 						"apple-mobile-web-app-status-bar-style": "black",

@@ -160,7 +160,7 @@
 					_theme === 'dark'
 						? '#212121'
 						: _theme === 'oled-dark'
-							? '#000000'
+							? '#181818'
 							: _theme === 'her'
 								? '#983724'
 								: '#ffffff'
@@ -175,8 +175,8 @@
 		if (_theme.includes('oled')) {
 			document.documentElement.style.setProperty('--color-gray-800', '#101010');
 			document.documentElement.style.setProperty('--color-gray-850', '#050505');
-			document.documentElement.style.setProperty('--color-gray-900', '#000000');
-			document.documentElement.style.setProperty('--color-gray-950', '#000000');
+			document.documentElement.style.setProperty('--color-gray-900', '#181818');
+			document.documentElement.style.setProperty('--color-gray-950', '#181818');
 			document.documentElement.classList.add('dark');
 		}
 

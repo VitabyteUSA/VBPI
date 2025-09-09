@@ -101,7 +101,7 @@
 										<input
 											type="color"
 											class="size-6 rounded cursor-pointer border border-gray-200 dark:border-gray-700"
-											value={valves[property] ?? '#000000'}
+											value={valves[property] ?? '#181818'}
 											on:input={(e) => {
 												// Convert the color value to uppercase immediately
 												valves[property] = e.target.value.toUpperCase();

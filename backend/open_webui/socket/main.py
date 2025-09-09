@@ -413,7 +413,7 @@ async def ydoc_document_join(sid, data):
 
         user_id = data.get("user_id", sid)
         user_name = data.get("user_name", "Anonymous")
-        user_color = data.get("user_color", "#000000")
+        user_color = data.get("user_color", "#181818")
 
         log.info(f"User {user_id} joining document {document_id}")
         await YDOC_MANAGER.add_user(document_id=document_id, user_id=sid)

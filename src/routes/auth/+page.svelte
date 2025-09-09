@@ -309,10 +309,9 @@
 													bind:value={email}
 													type="email"
 													id="email"
-													class="my-0.5 w-full text-sm outline-hidden bg-transparent placeholder:text-gray-300 dark:placeholder:text-gray-600"
+													class="my-0.5 w-full text-sm outline-hidden bg-transparent placeholder:text-gray-300 dark:placeholder:text-gray-600 border border-gray-300 rounded-lg p-2.5"
 													autocomplete="email"
 													name="email"
-													style="border: 1px solid gray; border-radius: 10px; padding: 10px;"
 													placeholder={$i18n.t('Enter Your Email')}
 													required
 												/>

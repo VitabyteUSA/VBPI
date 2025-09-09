@@ -206,7 +206,7 @@
 			class="fixed bg-transparent min-h-screen w-full flex justify-center font-primary z-50 text-black dark:text-white"
 			id="auth-container"
 		>
-			<div class="w-full px-10 min-h-screen flex flex-col text-center" style="background-color: #181818;">
+			<div class="w-full px-10 min-h-screen flex flex-col text-center">
 				{#if ($config?.features.auth_trusted_header ?? false) || $config?.features.auth === false}
 					<div class=" my-auto pb-10 w-full sm:max-w-md">
 						<div
@@ -328,10 +328,11 @@
 												type="password"
 												id="password"
 												class="my-0.5 w-full text-sm outline-hidden bg-transparent placeholder:text-gray-300 dark:placeholder:text-gray-600"
+												style="border: 1px solid gray !important; border-radius: 10px !important; padding: 10px !important;"
 												placeholder={$i18n.t('Enter Your Password')}
 												autocomplete={mode === 'signup' ? 'new-password' : 'current-password'}
 												name="password"
-												style="border: 1px solid gray; border-radius: 10px; padding: 10px;"
+												
 												required
 											/>
 										</div>

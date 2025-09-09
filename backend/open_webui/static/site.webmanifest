@@ -1,6 +1,6 @@
 {
   "name": "VBPi",
-  "short_name": "WebUI",
+  "short_name": "VBPi",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",

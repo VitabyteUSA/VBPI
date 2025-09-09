@@ -1,53 +1,46 @@
-All code and materials created before commit `60d84a3aae9802339705826e9095e272e3c83623` are subject to the following copyright and license:
+VITABYTE VBPi End User License Agreement (EULA)
 
-Copyright (c) 2023-2025 Timothy Jaeryang Baek
-All rights reserved.
+Copyright (c) 2023-2025 Vitabyte (VBPi). All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+This End User License Agreement ("Agreement") governs the use of the VBPi software (the "Software"). By installing, accessing, or using the Software, you ("Licensee" or "End User") agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+ 1.⁠ ⁠License Grant
+Vitabyte grants Licensee a limited, non-exclusive, non-transferable, revocable license to install and use the Software solely for Licensee's internal business or personal use, subject to the restrictions in this Agreement.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+ 2.⁠ ⁠Ownership
+The Software is licensed, not sold. Vitabyte and its licensors retain all rights, title, and interest in and to the Software, including all copyrights, trademarks, trade secrets, and other intellectual property.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+ 3.⁠ ⁠Restrictions
+Licensee shall not, without Vitabyte's prior written consent:
+•⁠  ⁠Copy, distribute, sublicense, sell, rent, lease, lend, or otherwise make the Software available to any third party.
+•⁠  ⁠Modify, adapt, translate, or create derivative works of the Software.
+•⁠  ⁠Reverse engineer, decompile, or disassemble the Software, except as expressly permitted by applicable law.
+•⁠  ⁠Remove, alter, or obscure any copyright, trademark, or proprietary notices.
+•⁠  ⁠Circumvent or attempt to disable any security, licensing, or technical protection features.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ 4.⁠ ⁠Branding Restrictions
+Licensee may not alter, obscure, or remove any "VBPi" branding, including the name, logo, or other identifiers, in any deployment or use of the Software. This restriction applies regardless of user count, except as explicitly provided in Section 5.
 
-All code and materials created before commit `a76068d69cd59568b920dfab85dc573dbbb8f131` are subject to the following copyright and license:
+ 5.⁠ ⁠Limited Exceptions for Enterprise Licensing
+The branding restriction in Section 4 may be waived only under one of the following circumstances:
+(i) Licensee has entered into a separate, duly executed Enterprise License Agreement with Vitabyte permitting branding modification; or
+(ii) Licensee is an official contributor with a substantive code change accepted into Vitabyte's private codebase, and has received specific written permission from Vitabyte.
+Absent such agreements, any removal or alteration of VBPi branding constitutes a material breach.
 
-MIT License
+ 6.⁠ ⁠Updates and Support
+Vitabyte may, at its discretion, provide updates, patches, or new versions of the Software. Unless otherwise stated in a separate agreement, Vitabyte is not obligated to provide support or maintenance.
 
-Copyright (c) 2023 Timothy Jaeryang Baek
+ 7.⁠ ⁠Disclaimer of Warranties
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ 8.⁠ ⁠Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, VITABYTE AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATING TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+ 9.⁠ ⁠Termination
+Vitabyte may terminate this Agreement immediately upon notice if Licensee breaches any provision. Upon termination, Licensee must cease all use and destroy all copies of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+10.⁠ ⁠Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [insert jurisdiction]. Any disputes shall be subject to the exclusive jurisdiction of the courts of [insert jurisdiction].
+
+11.⁠ ⁠Entire Agreement
+This Agreement constitutes the entire agreement between Licensee and Vitabyte regarding the Software and supersedes all prior agreements or understandings.

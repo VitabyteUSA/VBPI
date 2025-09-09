@@ -123,14 +123,12 @@
 			</div>
 		{:else}
 			<div class="flex space-x-1">
-				
 			</div>
 		{/if}
 
 		<div class="mt-2 text-xs text-gray-400 dark:text-gray-500">
-			Emoji graphics provided by
-			<a href="https://github.com/jdecked/twemoji" target="_blank">Twemoji</a>, licensed under
-			<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a>.
+			VITABYTE VBPi End User License Agreement (EULA)
+
 		</div>
 
 		<div>
@@ -138,40 +136,52 @@
 				class="text-xs text-gray-400 dark:text-gray-500">Copyright (c) {new Date().getFullYear()} <a
 					href="https://openwebui.com"
 					target="_blank"
-					class="underline">VBPi (Timothy Jaeryang Baek)</a
+					class="underline">Vitabyte (VBPi)</a
 				>
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+This End User License Agreement ("Agreement") governs the use of the VBPi software (the "Software"). By installing, accessing, or using the Software, you ("Licensee" or "End User") agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
 
-1. Redistributions of source code must retain the above copyright notice, this
-	list of conditions and the following disclaimer.
+ 1.⁠ ⁠License Grant
+Vitabyte grants Licensee a limited, non-exclusive, non-transferable, revocable license to install and use the Software solely for Licensee's internal business or personal use, subject to the restrictions in this Agreement.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-	this list of conditions and the following disclaimer in the documentation
-	and/or other materials provided with the distribution.
+ 2.⁠ ⁠Ownership
+The Software is licensed, not sold. Vitabyte and its licensors retain all rights, title, and interest in and to the Software, including all copyrights, trademarks, trade secrets, and other intellectual property.
 
-3. Neither the name of the copyright holder nor the names of its
-	contributors may be used to endorse or promote products derived from
-	this software without specific prior written permission.
+ 3.⁠ ⁠Restrictions
+Licensee shall not, without Vitabyte's prior written consent:
+•⁠  ⁠Copy, distribute, sublicense, sell, rent, lease, lend, or otherwise make the Software available to any third party.
+•⁠  ⁠Modify, adapt, translate, or create derivative works of the Software.
+•⁠  ⁠Reverse engineer, decompile, or disassemble the Software, except as expressly permitted by applicable law.
+•⁠  ⁠Remove, alter, or obscure any copyright, trademark, or proprietary notices.
+•⁠  ⁠Circumvent or attempt to disable any security, licensing, or technical protection features.
 
-4. Notwithstanding any other provision of this License, and as a material condition of the rights granted herein, licensees are strictly prohibited from altering, removing, obscuring, or replacing any "VBPi" branding, including but not limited to the name, logo, or any visual, textual, or symbolic identifiers that distinguish the software and its interfaces, in any deployment or distribution, regardless of the number of users, except as explicitly set forth in Clauses 5 and 6 below.
+ 4.⁠ ⁠Branding Restrictions
+Licensee may not alter, obscure, or remove any "VBPi" branding, including the name, logo, or other identifiers, in any deployment or use of the Software. This restriction applies regardless of user count, except as explicitly provided in Section 5.
 
-5. The branding restriction enumerated in Clause 4 shall not apply in the following limited circumstances: (i) deployments or distributions where the total number of end users (defined as individual natural persons with direct access to the application) does not exceed fifty (50) within any rolling thirty (30) day period; (ii) cases in which the licensee is an official contributor to the codebase—with a substantive code change successfully merged into the main branch of the official codebase maintained by the copyright holder—who has obtained specific prior written permission for branding adjustment from the copyright holder; or (iii) where the licensee has obtained a duly executed enterprise license expressly permitting such modification. For all other cases, any removal or alteration of the "VBPi" branding shall constitute a material breach of license.
+ 5.⁠ ⁠Limited Exceptions for Enterprise Licensing
+The branding restriction in Section 4 may be waived only under one of the following circumstances:
+(i) Licensee has entered into a separate, duly executed Enterprise License Agreement with Vitabyte permitting branding modification; or
+(ii) Licensee is an official contributor with a substantive code change accepted into Vitabyte's private codebase, and has received specific written permission from Vitabyte.
+Absent such agreements, any removal or alteration of VBPi branding constitutes a material breach.
 
-6. All code, modifications, or derivative works incorporated into this project prior to the incorporation of this branding clause remain licensed under the BSD 3-Clause License, and prior contributors retain all BSD-3 rights therein; if any such contributor requests the removal of their BSD-3-licensed code, the copyright holder will do so, and any replacement code will be licensed under the project's primary license then in effect. By contributing after this clause's adoption, you agree to the project's Contributor License Agreement (CLA) and to these updated terms for all new contributions.
+ 6.⁠ ⁠Updates and Support
+Vitabyte may, at its discretion, provide updates, patches, or new versions of the Software. Unless otherwise stated in a separate agreement, Vitabyte is not obligated to provide support or maintenance.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ 7.⁠ ⁠Disclaimer of Warranties
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+ 8.⁠ ⁠Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, VITABYTE AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATING TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ 9.⁠ ⁠Termination
+Vitabyte may terminate this Agreement immediately upon notice if Licensee breaches any provision. Upon termination, Licensee must cease all use and destroy all copies of the Software.
+
+10.⁠ ⁠Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [insert jurisdiction]. Any disputes shall be subject to the exclusive jurisdiction of the courts of [insert jurisdiction].
+
+11.⁠ ⁠Entire Agreement
+This Agreement constitutes the entire agreement between Licensee and Vitabyte regarding the Software and supersedes all prior agreements or understandings.
 </pre>
 		</div>
 
@@ -180,7 +190,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 			<a
 				class=" text-gray-500 dark:text-gray-300 font-medium"
 				href="https://github.com/tjbck"
-				target="_blank">Timothy J. Baek</a
+				target="_blank">VITABYTE</a
 			>
 		</div>
 	</div>

@@ -264,7 +264,3 @@ If you have any questions, suggestions, or need assistance, please open an issue
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=open-webui/open-webui&type=Date" />
   </picture>
 </a>
-
----
-
-Created by [Timothy Jaeryang Baek](https://github.com/tjbck) - Let's make VBPi even more amazing together! 💪

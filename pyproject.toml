@@ -2,7 +2,7 @@
 name = "open-webui"
 description = "VBPi"
 authors = [
-    { name = "Timothy Jaeryang Baek", email = "tim@openwebui.com" }
+    { name = "VITABYTE ", email = "support@vitabyte.com" }
 ]
 license = { file = "LICENSE" }
 dependencies = [

@@ -323,16 +323,16 @@
 											<label for="password" class="text-sm font-medium text-left mb-1 block"
 												>{$i18n.t('Password')}</label
 											>
-											<SensitiveInput
+											<input
 												bind:value={password}
 												type="password"
 												id="password"
-												class="my-0.5 w-full text-sm outline-hidden bg-transparent placeholder:text-gray-300 dark:placeholder:text-gray-600 border border-gray-300 rounded-lg p-2.5"
+												class="my-0.5 w-full text-sm border border-gray-300 rounded-lg p-2.5"
 												placeholder={$i18n.t('Enter Your Password')}
 												autocomplete={mode === 'signup' ? 'new-password' : 'current-password'}
 												name="password"
 												required
-											/>
+												/>
 										</div>
 
 										{#if mode === 'signup' && $config?.features?.enable_signup_password_confirmation}

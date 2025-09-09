@@ -312,6 +312,7 @@
 													class="my-0.5 w-full text-sm outline-hidden bg-transparent placeholder:text-gray-300 dark:placeholder:text-gray-600"
 													autocomplete="email"
 													name="email"
+													style="border: 1px solid gray; border-radius: 10px; padding: 10px;"
 													placeholder={$i18n.t('Enter Your Email')}
 													required
 												/>
@@ -330,6 +331,7 @@
 												placeholder={$i18n.t('Enter Your Password')}
 												autocomplete={mode === 'signup' ? 'new-password' : 'current-password'}
 												name="password"
+												style="border: 1px solid gray; border-radius: 10px; padding: 10px;"
 												required
 											/>
 										</div>

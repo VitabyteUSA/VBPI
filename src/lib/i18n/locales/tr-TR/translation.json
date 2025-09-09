@@ -327,7 +327,7 @@
 	"Copy Link": "Bağlantıyı Kopyala",
 	"Copy to clipboard": "Panoya kopyala",
 	"Copying to clipboard was successful!": "Panoya kopyalama başarılı!",
-	"CORS must be properly configured by the provider to allow requests from Vitabyte.": "Open WebUI’dan gelen isteklerin kabul edilebilmesi için sağlayıcının CORS yapılandırmasının doğru şekilde yapılmış olması gerekir.",
+	"CORS must be properly configured by the provider to allow requests from Vitabyte.": "Vitabyte’dan gelen isteklerin kabul edilebilmesi için sağlayıcının CORS yapılandırmasının doğru şekilde yapılmış olması gerekir.",
 	"Create": "Oluştur",
 	"Create a knowledge base": "Bir bilgi tabanı oluştur",
 	"Create a model": "Bir model oluştur",
